@@ -1,5 +1,4 @@
 <p align="center">
-  
   <img alt="" style="border-radius: 20px; border: 2px gold solid" src="https://streak-stats.demolab.com?user=CheXnik&theme=gruvbox&hide_border=true&border_radius=20">
 </p>
 
@@ -22,7 +21,7 @@ Telegram - [@CheXnik](https://chexnik.t.me) `Никита Петриченко`
 
 Вид деятельности: Разработка коммерческого и открытого программного обеспечения<br>
 Должность: `Python developer`, `Middle Software Engineer`, `DevOps`<br>
-Период работы:<br>
+Период работы: 08.2021 - по сегодняшний день<br>
 Задачи:
   - Разработка и поддержка программного обеспечения на языке `Python`, `JavaScript`
   - Участие в архитектурном проектировании и планировании новых функциональностей
