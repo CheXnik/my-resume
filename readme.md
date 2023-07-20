@@ -49,11 +49,11 @@ Telegram - [@CheXnik](https://chexnik.t.me) `Никита Петриченко`
 
 - Языки программирования: `Python`, `C++`, `SQL`
 - Также писал на: `Java`, `Kotlin`, `C#`, `C`
-- Фреймворки: `Django`, `Flask`, `Aiogram`, `Pyrogram`, `Flet`, `FastAPI`
+- Фреймворки: `Django`, `Flask`, `Aiogram`, `Pyrogram`, `Flet`, `FastAPI`, `Fiddler`
 - Технологии: `GoogleAPI`, `RestAPI`, `Docker`, `NGinx`, `Spigot-API`
 - Базы данных: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`
 - Веб-технологии: `HTML`, `CSS`, `SCSS`, `JavaScript`
-- Инструменты контроля версий: `Git`, `Fiddler`
+- Инструменты контроля версий: `Git`
 - Операционные системы: `Windows`, `Linux`, `MacOS`
 
 <br>
