@@ -21,7 +21,7 @@ Telegram - [@CheXnik](https://chexnik.t.me) `Никита Петриченко`
 
 Вид деятельности: Разработка коммерческого и открытого программного обеспечения<br>
 Должность: `Python developer`, `Middle Software Engineer`, `DevOps`<br>
-Период работы: 08.2021 - по сегодняшний день<br>
+Период работы: 08.2020 - по сегодняшний день<br>
 Задачи:
   - Разработка и поддержка программного обеспечения на языке `Python`, `JavaScript`
   - Участие в архитектурном проектировании и планировании новых функциональностей
@@ -48,9 +48,9 @@ Telegram - [@CheXnik](https://chexnik.t.me) `Никита Петриченко`
 <hr>
 
 - Языки программирования: `Python`, `C++`, `SQL`
-- Также писал на: `Java`, `Kotlin`, `C#`, `C`
-- Фреймворки: `Django`, `Flask`, `Aiogram`, `Pyrogram`, `Flet`, `FastAPI`, `Fiddler`
-- Технологии: `GoogleAPI`, `RestAPI`, `Docker`, `NGinx`, `Spigot-API`
+- Также писал на: `Java`, `Kotlin`, `C#`, `C`, `Dart`
+- Фреймворки: `Django`, `Flask`, `Aiogram`, `Pyrogram`, `Flet`, `FastAPI`
+- Технологии: `GoogleAPI`, `RestAPI`, `Docker`, `Docker Compose`, `NGinx`, `Spigot-API`, `GoogleAPI`, `Fiddler`
 - Базы данных: `PostgreSQL`, `MariaDB`, `MySQL`, `SQLite`
 - Веб-технологии: `HTML`, `CSS`, `SCSS`, `JavaScript`
 - Инструменты контроля версий: `Git`
@@ -62,10 +62,7 @@ Telegram - [@CheXnik](https://chexnik.t.me) `Никита Петриченко`
 <hr>
 
 - Хорошо владею консолью `ubuntu` и основными консольными утилитами такими как:
-  - `Nano`
-  - `vim`
-  - `tmux`
-  - `htop`
+  - `Nano`, `vim`, `tmux`, `htop`
 - Коммуникабельность и умение работать в команде
 - Аналитическое мышление и способность креативно решать проблемы
 - Стремление к саморазвитию и изучению новых технологий
